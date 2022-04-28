@@ -16,7 +16,7 @@
   \********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nfunction App() {\n  return \"Hello World\";\n}\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (App);\n\n//# sourceURL=webpack://todolist/./src/App.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nvar HomePage = /*#__PURE__*/React.createElement(\"div\", {\n  className: \"Container\"\n}, /*#__PURE__*/React.createElement(\"h1\", null, \"React\\u7DF4\\u7FD2\\u5C08\\u6848\"), /*#__PURE__*/React.createElement(\"h2\", null, \"\\u6B61\\u8FCE\\u5149\\u81E8\\u6211\\u7684\\u9801\\u9762\"), /*#__PURE__*/React.createElement(\"button\", null, \"\\u9EDE\\u6B64\\u958B\\u59CB\"));\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (HomePage);\n\n//# sourceURL=webpack://todolist/./src/App.js?");
 
 /***/ }),
 
