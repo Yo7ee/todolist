@@ -2,7 +2,6 @@ import React, {useState} from "react"
 
 function TodoForm({add}){
     const [input, setInput] = useState('');
-    // const [id, setId] = useState([]);
 
     const inputChange = e =>{
         e.preventDefault();
