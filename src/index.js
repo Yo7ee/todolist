@@ -17,6 +17,6 @@ root.render(
             <Route path="/" element={<App />}/>
             <Route path="/todolist" element={<ListPage />}/>
         </Routes>
-        </BrowserRouter>
+    </BrowserRouter>
 )
 
