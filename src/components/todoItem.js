@@ -11,6 +11,7 @@ function TodoItem({listData, deleteData}){
         }catch(e){
             console.log("Error adding Item: " + e)
         };
+    };
         
     return (
         <div className="todo-list">
@@ -30,5 +31,3 @@ function TodoItem({listData, deleteData}){
 };
 
 export default TodoItem;
-
-
